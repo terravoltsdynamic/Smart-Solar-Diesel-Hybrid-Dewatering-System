@@ -4,7 +4,7 @@
 **Event:** Larsen & Toubro — **SMARTATHON 2.0** *(IEEE Madras Section · IEEE Industry Applications Society · St. Joseph's College Student Branch Chapter)*  
 **Domain:** Smart Energy & Sustainable Infrastructure  
 
-![TerraVolts Hardware Prototype](prototype.jpg)
+![TerraVolts Hardware Prototype](prototype.jpeg)
 
 ---
 
@@ -53,6 +53,6 @@ Continuous groundwater accumulation in underground copper mines requires reliabl
 
 ## 5. Project Files & Demo
 * **Firmware:** [`firmware/terravolts_esp32c6.ino`](firmware/terravolts_esp32c6.ino) — ESP32-C6 Arduino/C++ source code.
-* **Android App:** [`app/`](app/) — Companion Android APK for real-time telemetry and remote emergency shutdown.
+* **Android App:** [Download APK (v1.0 Release)](https://github.com/terravoltsdynamic/Smart-Solar-Diesel-Hybrid-Dewatering-System/releases/tag/v1.0) — Companion Android app for real-time telemetry and remote emergency shutdown.
 * **Pitch Deck:** [`Smartathon_2.0_Pitch_Deck.pdf`](Smartathon_2.0_Pitch_Deck.pdf) — Official L&T SMARTATHON 2.0 presentation.
-* **Working Prototype Video:** *(Upload your running demo video as Unlisted on YouTube and paste the link here)*
+* **Working Prototype Video:** [Watch Working Hardware Demo on YouTube](https://youtu.be/X3ipVRMV7cA)
